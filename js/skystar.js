@@ -103,6 +103,7 @@ let textone = document.querySelector('.textone').querySelector('h1');
 
       setTimeout(function(){
         textone.innerHTML = '今晚，整片星空将为你一人闪烁';
+        textone.innerHTML = '本是人间寻常客，幸识你，从此星河皆有迹';
           textone.style.color = '#E8F9FD';
           textone.style.fontFamily = '楷体'
           texttwo.style.color = '#E8F9FD';
@@ -112,9 +113,9 @@ let textone = document.querySelector('.textone').querySelector('h1');
           texttwo.innerHTML = '';
       },28000)
       setTimeout(function(){
-        textone.innerHTML = '很高兴认识你吖';
-        texttwo.innerHTML = ' is my lucky!!!';
-           textth.ee.innerH =  = '潇潇';
+        textone.innerHTML = '幸识君';
+        texttwo.innerHTML = '此后山河星月';
+           textth.ee.innerH =  = '皆觉温柔';
       },112500)
 
 
